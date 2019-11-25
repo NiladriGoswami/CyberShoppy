@@ -43,7 +43,7 @@ By clicking on the “Sign in” link, the Modal for login appears at the top of
 
 After clicking on login button if the user provide correct login credentials the control will display a success message which states that the user has successfully logged in within a pop up message, below which an “OK” button is placed, by clicking that the control will redirect the user to the index page where in the top right side a message will be displayed which states that the user has successfully logged in his/her account.
 
-![3](https://user-images.githubusercontent.com/48457036/69574227-a9e14500-0fed-11ea-85c5-2a85b6f8c9f0.jpg)
+
 
 
 
