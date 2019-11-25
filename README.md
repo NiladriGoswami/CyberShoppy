@@ -108,5 +108,25 @@ By clicking the logout link, the control will display a pop up notification, whi
 By clicking the “OK” button the control will redirect the user to the homepage or index page of our online shopping site. Where the user again needs to login if he/she wants to purchase or view any product.
 
 
+ ##  2. Vendor Module:
+When an existing Vendor, provide all the Credentials for login in the correct place. 
+
+![19](https://user-images.githubusercontent.com/48457036/69578809-3b08e980-0ff7-11ea-8fb0-b6a16176391e.png)
+
+After clicking “login” button the control redirect the vendor to the vendor index page of the inventory management system.
+
+![20](https://user-images.githubusercontent.com/48457036/69578874-5a077b80-0ff7-11ea-904c-5e2744f048e2.png)
+
+From the index page if the Vendor clicks on the “ADD NEW PRODUCTS” tab, then the control will redirect the vendor to a new page from where we can insert the products.
+
+![21](https://user-images.githubusercontent.com/48457036/69578919-7acfd100-0ff7-11ea-91f2-e9f230db5f94.png)
+
+ From the vendor index page if we click on the tab “MANAGE PRODUCTS”, then the control will redirect the vendor to a new page from where we can manage the products available under the particular vendor.
+ 
+ ![22](https://user-images.githubusercontent.com/48457036/69578995-9cc95380-0ff7-11ea-9fad-bf3e6aa892d1.png)
+
+If the vendor clocks on the “Edit” button beside every product, then the control will redirect the vendor to a new page from where the vendor can update the information regarding the product.
+
+![23](https://user-images.githubusercontent.com/48457036/69579045-b9fe2200-0ff7-11ea-94cf-356ba7f95156.png)
 
 
