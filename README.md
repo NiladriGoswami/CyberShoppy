@@ -17,3 +17,9 @@ Once viewed the product properlyand checked if the quality of item meets the exp
  
  #### Local database:
  MYSQL
+ 
+ 
+ # How to run this Project?
+ 
+  * First download the XAMPP server and start it.
+  * Now download this project, unzip it and save it in htdocs folder under Xampp folder which resides by default in C drive while installing.
