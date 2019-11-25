@@ -30,3 +30,8 @@ Once viewed the product properlyand checked if the quality of item meets the exp
   * Type in url= localhost/cyber_shoppe/index.php
   
   
+  # Usage
+  
+  ## User Module:
+  The user index page of online shopping site provides us with different options in the navigation panel. From where user can Sign in if already registered or if the user is new then he/she can register first themselves. Then login with the credentials.
+  
