@@ -43,6 +43,9 @@ By clicking on the “Sign in” link, the Modal for login appears at the top of
 
 After clicking on login button if the user provide correct login credentials the control will display a success message which states that the user has successfully logged in within a pop up message, below which an “OK” button is placed, by clicking that the control will redirect the user to the index page where in the top right side a message will be displayed which states that the user has successfully logged in his/her account.
 
+![3](https://user-images.githubusercontent.com/48457036/69577097-acdf3400-0ff3-11ea-9aa9-5e335b46448b.png)
+
+In the index page (Home page), the navigation panel also provides several other features like choosing the product category wise. Initially, the products are divided into two categories Men’s and Women’s section. By clicking any of the categories a drop down menu appears where the subcategories are listed. 
 
 
 
