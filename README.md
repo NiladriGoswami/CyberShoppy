@@ -212,3 +212,11 @@ Since the admin clicked the log out button, so the admin account get logged out 
 ![42](https://user-images.githubusercontent.com/48457036/69582186-0cdad800-0ffe-11ea-9eae-5a07df243c04.png)
 
 
+
+# Credits:
+
+#### Authors:
+  * Niladri Goswami (https://www.linkedin.com/in/niladri-goswami-0972a2118/)
+  * Souvik Basu (https://www.linkedin.com/in/souvik-basu-a4a262b5/)
+  
+  
