@@ -129,4 +129,29 @@ If the vendor clocks on the “Edit” button beside every product, then the con
 
 ![23](https://user-images.githubusercontent.com/48457036/69579045-b9fe2200-0ff7-11ea-94cf-356ba7f95156.png)
 
+In the Manage product page if the vendor clicks the “Delete” button beside each product listed in the tabular format, then the data of that product will be deleted from the database of the online shopping site.
+
+![24](https://user-images.githubusercontent.com/48457036/69579287-3b55b480-0ff8-11ea-85f3-23cb1aaaa51a.png)
+
+In the vendor index page if we click on the “TOTAL BUSINESS” tab, then the control will redirect the vendor to the new page, where the total business done by the particular logged in vendor, is written in the Table format, along with the total business.
+
+![25](https://user-images.githubusercontent.com/48457036/69579395-66400880-0ff8-11ea-8b8a-6efded8476f9.png)
+
+By clicking on the drop down present in there panel of the Vendor, labelled “DASH BOARD” the control goes back to the vendor index page.
+
+![26](https://user-images.githubusercontent.com/48457036/69579448-7f48b980-0ff8-11ea-8ceb-9fe276e9b6de.png)
+
+.In the top right corner when we click on the vendor name in the index page a drop down menu arises. From which if we click on settings, then the control will redirect the vendor to the new page from where the vendor can update his/her profile.
+
+![27](https://user-images.githubusercontent.com/48457036/69579503-a0110f00-0ff8-11ea-845c-4b6af483e91c.png)
+
+In the navigation panel of vendor, at the top right corner, if the Vendor clicks over his/her name, then a drop down menu will arise in which there is an option called logout.
+
+![28](https://user-images.githubusercontent.com/48457036/69579561-c040ce00-0ff8-11ea-8278-36600acc1c67.png)
+
+By clicking on the link “logout”, a popup notification will arise at the top of the page with a message, which states that the vendor has successfully logged out from their account, and the control will redirect the Vendor to the login page.
+
+![29](https://user-images.githubusercontent.com/48457036/69579620-e0708d00-0ff8-11ea-99cf-6807b3d0be5c.png)
+
+
 
