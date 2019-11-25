@@ -1,4 +1,4 @@
-# Simple Shopping Cart in PHP (E-Commerce Website)
+# Cyber Shoppy (Simple E-Commerce Website in PHP)
 
 The website shopping system (Online Shopping System) was using the internet as the sole method for selling goods to its consumers. It would allow customers to register with the site and purchase goods online. Using sessions to save users, users can add and purchase products. Various products where displayed through a database, in the index page as well as categorized and dispalyed int subdetails page, from where the user can view the products or selected items by clicking the Quick View button that appears while hovering the cursor over a specific item in Subdetails page.
 
