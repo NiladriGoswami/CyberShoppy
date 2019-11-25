@@ -153,5 +153,62 @@ By clicking on the link “logout”, a popup notification will arise at the top
 
 ![29](https://user-images.githubusercontent.com/48457036/69579620-e0708d00-0ff8-11ea-99cf-6807b3d0be5c.png)
 
+## 3. Admin Module:
+The Admin is mainly plays the role of managing the users and vendors in the inventory management system. The admin profile is pre-registered in the system. 
+
+![30](https://user-images.githubusercontent.com/48457036/69581440-85d93000-0ffc-11ea-8cde-671278ebfc76.png)
+
+When the admin provides the correct login credentials in the correct field of the login page, and click on the “Log in” button, then the  control redirects the index page of the admin account in the inventory management system.
+
+![31](https://user-images.githubusercontent.com/48457036/69581506-a1443b00-0ffc-11ea-8d62-1675700f81d5.png)
+
+When the admin enters the Index page of the inventory management system, then he/she can perform all the operations present in the tabs. When the admin enters the index after successful login, then he can view the request of Vendors which are pending. By clicking the View request.
+
+![32](https://user-images.githubusercontent.com/48457036/69581556-bae58280-0ffc-11ea-828c-fd5952126d11.png)
+
+After clicking on the “VIEW REQUEST” link in the tab, the control redirect the admin to another page from where the admin can see all the pending request of the vendor’s in a tabular format. Beside every vendor request there is an action column, from where admin can either “Accept” the vendor request or by clicking on “Delete” button the admin can delete the pending request of the Vendor.
+
+![33](https://user-images.githubusercontent.com/48457036/69581629-dd779b80-0ffc-11ea-8a99-e5fd7476c8ab.png)
+
+From the admin index page, the admin can also change the active and inactive status by clicking on the “USER REQUEST” link in the tab. When the Admin clicks on the “USER REQUEST” link from the tab, the control redirect the admin to the new page in which the details of all the users are displayed in the tabular format. 
+
+And beside every user detail there is an Action section which consists of two button “Active” and “Inactive”. If the admin clicks on active button beside any user details, if the user was previously inactive, then the user will now become active. But if the user is previously active, then the message will appear that the user is already active. 
+
+![34](https://user-images.githubusercontent.com/48457036/69581739-0b5ce000-0ffd-11ea-8840-68980c79670a.png)
+
+And if the admin clicks on inactive button, if the user is previously active, then the user will be active now. But if the user is previously inactive, then the message will displayed to the admin that the user is already inactive.
+
+![35](https://user-images.githubusercontent.com/48457036/69581796-24659100-0ffd-11ea-837e-89576e456ee9.png)
+
+From the admin index, the admin can also block or delete vendor, by clicking on the “MANAGE VENDOR” link from the tab of the index page.
+When the admin clicks on the “MANAGE VENDOR” link, the control redirect the admin to a new page, where all the vendor’s details are displayed in tabular format, along with the action buttons “Block” and “Delete”.
+
+By clicking on the “Block” button the admin can block the Vendor. And after clicking the “Block” button, the vendor data will not  be shown in this page.
+
+![36](https://user-images.githubusercontent.com/48457036/69581878-58d94d00-0ffd-11ea-83a1-59b859262759.png)
+
+By clicking the “Delete” button the Vendor account will be deleted. And also the corresponding data of that particular Vendor will not be displayed in this page.
+
+![37](https://user-images.githubusercontent.com/48457036/69581937-75758500-0ffd-11ea-9214-7e38ecad3315.png)
+
+Admin can also view the total business of all the vendor’s from the admin index page. By clicking the total business tab from the index tab, the control will redirect the admin to new page in which details of all the Vendors sell is displayed in tabular format along with the total sell.
+
+![38](https://user-images.githubusercontent.com/48457036/69581989-96d67100-0ffd-11ea-8cd1-a76548f13e17.png)
+
+In the top right corner, the name of the admin is displayed, by clicking on it, a drop down list will open, in which one of the option is settings. 
+
+![39](https://user-images.githubusercontent.com/48457036/69582031-b2417c00-0ffd-11ea-99eb-e4b967c96474.png)
+
+By clicking on the setting option, the control will redirect the admin to the new page in which all the details of the admin is displayed, from where admin can change its password and update his/her account.
+
+![40](https://user-images.githubusercontent.com/48457036/69582082-d43afe80-0ffd-11ea-96cb-cf1c9b45a327.png)
+
+In the top right corner of the index page, the name of the admin is displayed, by clicking on the name a drop down menu will appear on the screen, which consists of options, among which one option is logout. By clicking the logout option, the control will redirect the admin to the login page from where the user can login again. 
+
+![41](https://user-images.githubusercontent.com/48457036/69582123-eae15580-0ffd-11ea-8f1c-de34f552658b.png)
+
+Since the admin clicked the log out button, so the admin account get logged out and the control is redirected to the login page by displaying the popup notification above the screen, along with a message that states “ADMIN Successfully logged out!!!.......”. By clicking the “OK” button below the pop up notification message, the control redirect the admin to the login page.
+
+![42](https://user-images.githubusercontent.com/48457036/69582186-0cdad800-0ffe-11ea-9eae-5a07df243c04.png)
 
 
