@@ -32,6 +32,6 @@ Once viewed the product properlyand checked if the quality of item meets the exp
   
   # Usage
   
-  ## User Module:
+  * ## User Module:
   The user index page of online shopping site provides us with different options in the navigation panel. From where user can Sign in if already registered or if the user is new then he/she can register first themselves. Then login with the credentials.
   
