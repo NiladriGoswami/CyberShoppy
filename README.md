@@ -39,3 +39,6 @@ Once viewed the product properlyand checked if the quality of item meets the exp
 
 By clicking on the “Sign in” link, the Modal for login appears at the top of the screen. Then by putting the correct credentials in the correct fields, a user can login to their account thereby clicking on the “LOGIN” button, if the user account already exists.
   
+  ![2](https://user-images.githubusercontent.com/48457036/69573027-5241da00-0feb-11ea-9f82-ce5b355be78f.jpg)
+
+
