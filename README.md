@@ -4,4 +4,14 @@ The website shopping system (Online Shopping System) was using the internet as t
 Once viewed the product properlyand checked if the quality of item meets the expectation of customer, they can add item to the cart from where the user can select partcular item and buy it and can also buy all the items present in the cart. The cart page fulfills almost the use of both wishlist and cart int this shoppping site.
  Since it was my first E-commerce website project, which have been done in a duration of 6 months(approx) as major project while pursing my MCA degree,so payment gateway mechanism is yet to be provided. Hopefull in upcomin days it will be added.
  
- #### Technologies used:
+ #### Technologies used: 
+ HTML5, CSS3, Bootstrap, Javascript, PHP
+ 
+ #### Platform: 
+ Xampp control pannel(cross platform)
+ 
+ #### Local server:
+ Apache server provided by Xampp
+ 
+ #### Local database:
+ MYSQL
