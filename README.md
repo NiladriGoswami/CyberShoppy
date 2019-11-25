@@ -47,6 +47,16 @@ After clicking on login button if the user provide correct login credentials the
 
 In the index page (Home page), the navigation panel also provides several other features like choosing the product category wise. Initially, the products are divided into two categories Men’s and Women’s section. By clicking any of the categories a drop down menu appears where the subcategories are listed. 
 
+![4](https://user-images.githubusercontent.com/48457036/69577210-ef087580-0ff3-11ea-98f4-1605ea7a5236.png)
+
+By clicking on any of the subcategories, the user will be redirected to another page where the products of those particular categories will be displayed to the user which are available in the stock. From this page we can see any products detail information if we wish to, by clicking on the “Quick view” option that appears in the image of each product whenever we hover the mouse cursor over any particular product.
+
+![5](https://user-images.githubusercontent.com/48457036/69577313-1c552380-0ff4-11ea-9f4a-efece6ff7114.png)
+
+By clicking on “QUICKVIEW button”, the user will be redirected to a new page where the information of the specific product is displayed in details like the original price in Indian currency along with the amount of money which is off on the particular product. The availability of the size is mentioned there, along with number of item present in the stock.
+
+![6](https://user-images.githubusercontent.com/48457036/69577383-3bec4c00-0ff4-11ea-809a-360d2fc66027.png)
+
 
 
 
